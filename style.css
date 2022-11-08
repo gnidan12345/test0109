@@ -5,6 +5,9 @@ body{
 p{
 	background:gray;
 	white-space: pre-wrap;
-	color:white;
-	
+	color:white;	
+}
+
+ol.lower-alpha{
+	list-style-type:lower-alpha;
 }
